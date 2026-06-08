@@ -1,0 +1,24 @@
+[
+    {
+        "Author": "向坂环",
+        "Name": "HideCatCat",
+        "InternalName": "HideCatCat",
+        "AssemblyVersion": "1.0.0.0",
+        "Punchline": "躲猫猫",
+        "Description": "",
+        "IconUrl": "",
+        "RepoUrl": "https://github.com/ffxivaichat/DalamudPlugins",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "工具"
+        ],
+        "DalamudApiLevel": 15,
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 0,
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/WayuSama/HideCatCat/blob/test/HideCatCat/bin/Debug.zip",
+        "DownloadLinkTesting": "https://github.com/WayuSama/HideCatCat/blob/test/HideCatCat/bin/Debug.zipp",
+        "DownloadLinkUpdate": "https://github.com/WayuSama/HideCatCat/blob/test/HideCatCat/bin/Debug.zip"
+    }
+]
