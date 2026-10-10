@@ -1,24 +1,32 @@
 [
-    {
-        "Author": "向坂环",
-        "Name": "HideCatCat",
-        "InternalName": "HideCatCat",
-        "AssemblyVersion": "1.0.0.0",
-        "Punchline": "躲猫猫",
-        "Description": "",
-        "IconUrl": "",
-        "RepoUrl": "https://github.com/ffxivaichat/DalamudPlugins",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "工具"
-        ],
-        "DalamudApiLevel": 15,
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": 0,
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/WayuSama/HideCatCat/raw/test/HideCatCat/bin/Debug.zip",
-        "DownloadLinkTesting": "https://github.com/WayuSama/HideCatCat/raw/test/HideCatCat/bin/Debug.zip",
-        "DownloadLinkUpdate": "https://github.com/WayuSama/HideCatCat/raw/test/HideCatCat/bin/Debug.zip"
-    }
+  {
+    "Author": "Drovolon / WayuSama",
+    "Name": "Pulsar",
+    "InternalName": "Pulsar",
+    "AssemblyVersion": "0.0.3.1",
+    "Description": "基于原版 Pulsar，加入 GD音乐台搜索、播放和队列功能。输入 /pulsar 打开界面。音乐同步需要兼容的同步插件，播放者和听众均需安装 Pulsar。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/WayuSama/Pulsar",
+    "Tags": [
+      "sync",
+      "music"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/WayuSama/Pulsar/main/Pulsar/images/icon.png",
+    "Punchline": "音乐同步插件，已加入 GD音乐台集成。",
+    "AcceptsFeedback": true,
+    "Changelog": "基于原版 Pulsar 0.0.3.1，加入 GD音乐台集成。扩展版标识：0.0.3.1-gd.1。",
+    "DownloadLinkInstall": "https://github.com/WayuSama/Pulsar/releases/download/v0.0.3.1-gd.1/Pulsar.zip",
+    "DownloadLinkUpdate": "https://github.com/WayuSama/Pulsar/releases/download/v0.0.3.1-gd.1/Pulsar.zip",
+    "TestingAssemblyVersion": "0.0.3.1",
+    "TestingDalamudApiLevel": 15,
+    "TestingChangelog": "基于原版 Pulsar 0.0.3.1，加入 GD音乐台集成。扩展版标识：0.0.3.1-gd.1。",
+    "DownloadLinkTesting": "https://github.com/WayuSama/Pulsar/releases/download/v0.0.3.1-gd.1/Pulsar.zip",
+    "DownloadCount": 0,
+    "LastUpdate": 1791656451
+  }
 ]
