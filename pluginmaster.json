@@ -19,14 +19,14 @@
     "IconUrl": "https://raw.githubusercontent.com/WayuSama/Pulsar/main/Pulsar/images/icon.png",
     "Punchline": "音乐同步插件，已加入 GD音乐台集成。",
     "AcceptsFeedback": true,
-    "Changelog": "基于原版 Pulsar 0.0.3.1，加入 GD音乐台集成。扩展版标识：0.0.3.1-gd.1。",
-    "DownloadLinkInstall": "https://github.com/WayuSama/Pulsar/releases/download/v0.0.3.1-gd.1/Pulsar.zip",
-    "DownloadLinkUpdate": "https://github.com/WayuSama/Pulsar/releases/download/v0.0.3.1-gd.1/Pulsar.zip",
+    "Changelog": "GD音乐台搜索结果改为每页五条，保留上一页、下一页。",
+    "DownloadLinkInstall": "https://github.com/WayuSama/Pulsar/releases/download/v0.0.3.1-gd.1/Pulsar-five-results.zip",
+    "DownloadLinkUpdate": "https://github.com/WayuSama/Pulsar/releases/download/v0.0.3.1-gd.1/Pulsar-five-results.zip",
     "TestingAssemblyVersion": "0.0.3.1",
     "TestingDalamudApiLevel": 15,
     "TestingChangelog": "基于原版 Pulsar 0.0.3.1，加入 GD音乐台集成。扩展版标识：0.0.3.1-gd.1。",
-    "DownloadLinkTesting": "https://github.com/WayuSama/Pulsar/releases/download/v0.0.3.1-gd.1/Pulsar.zip",
+    "DownloadLinkTesting": "https://github.com/WayuSama/Pulsar/releases/download/v0.0.3.1-gd.1/Pulsar-five-results.zip",
     "DownloadCount": 0,
-    "LastUpdate": 1791656451
+    "LastUpdate": 1791686009
   }
 ]
